@@ -1,0 +1,1 @@
+{"mappings":"AAEA","sources":["src/scss/style.scss"],"sourcesContent":["$ana-renk:purple;\n\nbody{\n    background-color: $ana-renk;\n}"],"names":[],"version":3,"file":"index.e8265c92.css.map","sourceRoot":"/__parcel_source_root/"}
